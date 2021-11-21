@@ -15,4 +15,4 @@ the configurable parameters are speed and PID constants
 
 maximum PWM after correction is 250 anyway so adjust speed and parameters to insure best response 
 
-project report and code are attached
+project report, code and simulation are attached.
