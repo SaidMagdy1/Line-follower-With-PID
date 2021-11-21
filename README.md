@@ -1,4 +1,4 @@
-</h>*PID controlled line follower arduino code*</h>
+<PID controlled line follower arduino code>
 
 the algorithm used is controlling position of robot by PID control (input is position and output is correctio) 
 
