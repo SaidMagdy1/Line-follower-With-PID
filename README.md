@@ -7,7 +7,7 @@ as we have 4 sensors :
 - left sensors are positively weighted and right sensors are negatively wrighted so at set point average should be near to 0 
                        
 - side sensors are weighted by the double of center sensors so if side sensors read black line the correction will be very high
-                          to correct the position quickly
+                            to correct the position quickly
 
 correction value is subtracted from right speed and added to the left speed (because of sensors' weight signs)
 
